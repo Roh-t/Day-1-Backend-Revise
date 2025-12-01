@@ -138,5 +138,17 @@ This is the start of my backend revision streak.
 
 ```
 
+🔥 Shorter (if interviewer wants concise answer):
+
+“Node.js is single-threaded and uses an event loop to handle asynchronous operations, allowing it to process many requests at the same time without blocking.”
+
+⭐ If they ask WHY this is useful:
+
+“Because it avoids thread creation overhead, reduces memory usage, and makes Node.js extremely fast for I/O-heavy applications.”
+
+🧠 If they ask HOW it works:
+
+“The main thread runs the event loop. Long-running tasks like I/O are sent to worker threads in the background. When they finish, callbacks are queued and executed by the event loop.”
+
 ---
 
