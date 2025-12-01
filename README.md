@@ -1,10 +1,6 @@
 # Day-1-Backend-Revise
 Node.js architecture, NPM basics, and professional backend setup using Express.
 
-
-Here is the **READY-TO-COPY** README.md **exactly as it will look when saved**.
-Just copy everything inside the code block and paste into your `README.md` file.
-
 ---
 
 ```md
@@ -61,7 +57,7 @@ backend-revision-day1/
 │── package.json
 │── README.md
 
-````
+```
 
 ---
 
