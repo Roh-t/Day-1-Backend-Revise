@@ -150,5 +150,24 @@ This is the start of my backend revision streak.
 
 “The main thread runs the event loop. Long-running tasks like I/O are sent to worker threads in the background. When they finish, callbacks are queued and executed by the event loop.”
 
+```
+Asynchronous Handling - 
+```
 ---
+🔥 Short & Powerful (20-second answer):
 
+“Asynchronous request handling allows Node.js to process multiple requests at the same time without blocking. It frees the main thread during long operations and responds only when the result is ready.”
+
+⭐ Why it is useful (if interviewer asks “why”):
+
+Improves performance
+
+Handles thousands of users
+
+Saves time by not blocking the thread
+
+Perfect for APIs, databases, real-time apps
+
+🧠 If they ask HOW it works:
+
+“Node sends I/O tasks to background workers. When they finish, the event loop picks the result and executes the callback or promise.”
