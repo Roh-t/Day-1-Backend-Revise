@@ -140,5 +140,3 @@ This is the start of my backend revision streak.
 
 ---
 
-If you want, I can prepare **Day 2 README file** in the same ready-to-copy format.
-```
