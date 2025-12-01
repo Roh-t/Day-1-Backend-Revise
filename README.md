@@ -41,7 +41,7 @@ npm run dev
 ---
 
 ## 🗂️ Project Folder Structure
-```
+
 
 backend-revision-day1/
 │── src/
@@ -57,7 +57,7 @@ backend-revision-day1/
 │── package.json
 │── README.md
 
-```
+
 
 ---
 
